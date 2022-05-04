@@ -1,1 +1,1 @@
-# attakhanyt.gethub.io
+# attakhanyt
